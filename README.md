@@ -1,4 +1,4 @@
-# Beans'n Cream :hamburger:
+# Burger House :hamburger:
 
 A website about a restaurant, which is mostly about their good burgers, which have a history behind it. :tada:
 
