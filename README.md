@@ -12,3 +12,4 @@ The idea behind this project is that you should be directly hungry when you chec
 
 - To combine colors and images so they fit well together
 - How to creat auto-type `animation` with css
+- The flexbox properties
